@@ -237,6 +237,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/)
+  2. [YNAB – You Need a Budget](http://www.youneedabudget.com/blog/c/job-posting/) Distributed budgeting and financial education company
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Remote Moonlighting
